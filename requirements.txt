@@ -1,0 +1,6 @@
+selenium
+undetected-chromedriver
+pytesseract
+pillow
+requests
+beautifulsoup4
